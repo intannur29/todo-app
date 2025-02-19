@@ -11,10 +11,10 @@
 
         <!-- Dropdown untuk foto profil -->
         <div class="nav-item dropdown">
-            <a href="{{ route('biodata.index') }}" class="nav-link">
+            <a href="{{ route('biodata.create') }}" class="nav-link">
                 <!-- Gambar profil -->
-                <img class="rounded-circle me-lg-2" src="{{ asset('img/fotoijazahintan.jpeg') }}" alt="Foto Profil"
-                    style="width: 40px; height: 40px: object-fit: cover;" />
+                <img class="rounded-circle me-lg-2" src="{{ asset('assets/img/fotoijazahintan.jpeg') }}"
+                    alt="Foto Profil" style="width: 40px; height: 40px: object-fit: cover;" />
                 <!-- Nama pengguna (hanya ditampilkan di layar besar) -->
                 <span class="d-none d-lg-inline-flex">Intan Nur Rahmawati</span>
             </a>
