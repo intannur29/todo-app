@@ -17,7 +17,7 @@
         .container {
             width: 100%;
             height: 100vh;
-            background-image: url('{{ asset('/assets/img/coala.jpg') }}');
+            background-image: url('{{ asset('/assets/img/apaweh.jpg') }}');
             background-position: center;
             background-size: cover;
             display: flex;
@@ -28,7 +28,7 @@
         .card {
             width: 90%;
             height: 440px;
-            color: #fff;
+            color: #011308;
             text-align: center;
             padding: 50px 35px;
             border: 1px solid rgba(10, 10, 10, 0.3);
