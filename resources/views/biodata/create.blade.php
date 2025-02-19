@@ -17,7 +17,7 @@
         .container {
             width: 100%;
             height: 100vh;
-            background-image: url('{{ asset('assets/img/WhatsApp Image 2025-02-18 at 13.48.12.jpeg') }}');
+            background-image: url('{{ asset('/assets/img/coala.jpg') }}');
             background-position: center;
             background-size: cover;
             display: flex;
