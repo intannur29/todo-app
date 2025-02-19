@@ -11,7 +11,7 @@
 
         <!-- Dropdown untuk foto profil -->
         <div class="nav-item dropdown">
-            <a href="#{{ route('biodata.create') }}" class="nav-link">
+            <a href="{{ route('biodata.index') }}" class="nav-link">
                 <!-- Gambar profil -->
                 <img class="rounded-circle me-lg-2" src="{{ asset('img/fotoijazahintan.jpeg') }}" alt="Foto Profil"
                     style="width: 40px; height: 40px: object-fit: cover;" />

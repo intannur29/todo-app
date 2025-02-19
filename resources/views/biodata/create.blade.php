@@ -69,13 +69,13 @@
             <table border="4" class="d-flex align-items-center justify-content center" >
                 <tbody>
                     <tr>
-                    <td>NAMA : SALSABILLA PUTRI RANESTI</td>
+                    <td>NAMA : Intan Nur Rahmawati</td>
                     </tr>
                     <tr>
-                    <td>NIT : 2223612</td>
+                    <td>NIT : 2223599</td>
                     </tr>
                     <tr>
-                    <td>TTL : SUBANG, 09-JANUARI-2007</td>
+                    <td>TTL : Subang, 24-April-2006</td>
                     </tr>
                     <tr>
                     <td>KELAS : XII</td>
